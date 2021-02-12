@@ -79,6 +79,8 @@ input, select, textarea {
 	transform: translate(-50%, -50%);
   }
 
+.b1 { display: block;}
+
 /* Arrow */
 
 a.arrow {
