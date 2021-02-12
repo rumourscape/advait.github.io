@@ -277,6 +277,7 @@ a.arrow {
 /* Container */
 
 	.container {
+		font-size: 60px;
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
 		width: 100%;
@@ -309,6 +310,7 @@ a.arrow {
 		@media screen and (max-width: 980px) {
 
 			.container {
+				font-size: 30px;
 				width: 100% !important;
 				max-width: 100% !important;
 			}
